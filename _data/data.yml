@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Minyoung Song
-    tagline: Full Stack Developer
+    tagline: 
     avatar: 1573722912905.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -43,7 +43,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I’m a  M.D. student at Machine Learning and Artificial Intelligence (MLAI) lab in KAIST, under the supervision of Prof. Sung Ju Hwang. 
+      I’m a  M.D. student at Machine Learning and Artificial Intelligence (MLAI) lab in KAIST, under the supervision of Prof. Sung Ju Hwang. I am interested in deep learning. 
 education:
     - degree: M.S. in Artificial Intelligence
       university: KAIST
@@ -68,22 +68,7 @@ education:
           - Bullet point
           - Bullet point
 
-experiences:
-    - role: 
-      time: 
-      company: 
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+
    
 
 publications:
