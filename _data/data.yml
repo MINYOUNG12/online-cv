@@ -35,7 +35,7 @@ sidebar:
      
 
     interests:
-      - item: Climbing
+      - item: Coffee 
         link:
 
       - item: Snowboarding
@@ -45,18 +45,13 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I’m a  M.D. student at Machine Learning and Artificial Intelligence (MLAI) lab in KAIST, under the supervision of Prof. Sung Ju Hwang. 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: M.S. in Artificial Intelligence
+      university: KAIST
+      time: 2020 -
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -65,9 +60,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: B.S. in Computer Science and Engineering 
+      university: Ewha University
+      time: 2016 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -148,10 +143,11 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Rapid Structural Pruning of Neural Networks with Set-based Task Adaptive Meta-Pruning
+
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Minyoung Song, Jaehong Yoon, Eunho Yang, Sung Ju Hwang
+        conference: In submission to NeurIPS 2020.
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
